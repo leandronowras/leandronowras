@@ -44,6 +44,7 @@
 ### Tools:
 ![Vscode](https://img.shields.io/badge/-VsCode-0D1117?style=for-the-badge&logo=Visual+Studio+Code&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![Vim](https://img.shields.io/badge/-Vim-0D1117?style=for-the-badge&logo=Vim&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=GitHub&labelColor=0D1117)&nbsp;
 
 ### Other Knowledge:
