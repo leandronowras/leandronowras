@@ -62,10 +62,10 @@
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=Docker&labelColor=0D1117)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=for-the-badge&logo=Kubernetes&labelColor=0D1117)&nbsp;
   
-  
-##
-![Contribution](https://activity-graph.herokuapp.com/graph?username=leandronowras&theme=react-dark&hide_border=true&area=true)
-##
+<!-- grafico de contribuicoes -->  
+<!-- ## -->
+<!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=leandronowras&theme=react-dark&hide_border=true&area=true)
+## -->
   
 <div>
 <a href="https://www.linkedin.com/in/leandro-abreu-4694881a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
