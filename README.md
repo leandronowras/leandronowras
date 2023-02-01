@@ -70,4 +70,5 @@
   
 <div>
 <a href="https://www.linkedin.com/in/leandro-abreu-4694881a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.leandronowras.com/" target="_blank"><img src="https://img.shields.io/badge/%20-Website-blueviolet?style=for-the-badge&logo=appveyor" target="_blank"></a>  
 </div>
